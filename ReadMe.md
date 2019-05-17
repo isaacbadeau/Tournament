@@ -1,3 +1,0 @@
-For this project I am following along with a Tim Corey Application Start to Finish.  My initial goal was to follow with him and then implement the ideas.  However, I've been working on this for over 60 hours.  I watch the video completely. Then I go back and watch it again entering the code.
-
-I know this isn't your ideal way to learn, but I have learned a huge amount interfaces, class libraries, patterns and how to use Visual Studio effectively.
